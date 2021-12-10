@@ -1,2 +1,2 @@
-# Hello-World-in-C
-// This is a program that checks that the c compiler is working well
+# Hello-World-in-C-language
+This is a program that checks that the c compiler is working well
